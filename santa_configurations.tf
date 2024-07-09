@@ -1,5 +1,5 @@
 resource "zentral_santa_configuration" "default" {
-  name           = "PSU Default"
+  name           = "PSU MacAdmins Default"
   client_mode    = "MONITOR"
   enable_bundles = true
 }
